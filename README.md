@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **2005pranaykr@gmail.com**
 
+- 🧑‍🎓 I am current pursuiing my degree in CSE(AI&ML)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranay-kr-651a3b284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-kr-651a3b284" height="30" width="40" /></a>
