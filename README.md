@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **2005pranaykr@gmail.com**
 
-- 🧑‍🎓 I am current pursuiing my degree in CSE(AI&ML)
+- 🧑‍🎓 I am currently pursuiing my degree in CSE(AI&ML)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
