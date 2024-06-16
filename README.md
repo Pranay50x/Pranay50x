@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay50x&label=Profile%20views&color=0e75b6&style=flat" alt="pranay50x" /> </p>
 
-- 🌱 I’m currently learning **NextJS and Pytorch**
+- 🌱 I’m currently learning **NextJS and Ether.JS**
 
 - 📫 How to reach me **2005pranaykr@gmail.com**
 
