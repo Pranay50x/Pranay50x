@@ -22,5 +22,5 @@
 <h3 align="left">Languages and Stats</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranay50x&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="pranay50x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranay50x&show_icons=true&locale=en" alt="pranay50x" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay50x&" alt="pranay50x" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranay50x&theme=chartreuse-dark&show_icons=true&locale=en" alt="pranay50x" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay50x&theme=chartreuse-dark" alt="pranay50x" /></p>
