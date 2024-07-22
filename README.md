@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pranay K R</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=40&duration=4000&pause=950&color=51F73D&center=true&width=435&lines=Hi+I+am+Pranay!" alt="Typing SVG" /></a>
+</div>
+<hr>
 <h3 align="center">An undergrad student from MSRIT, Bangalore India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay50x&label=Profile%20views&color=0e75b6&style=flat" alt="pranay50x" /> </p>
