@@ -1,6 +1,9 @@
 <div align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=40&duration=4000&pause=950&color=51F73D&center=true&width=435&lines=Hi+I+am+Pranay!" alt="Typing SVG" /></a>
+  <h1>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=33F745&center=true&vCenter=true&width=450&height=60&lines=Hi+I+am+Pranay!" alt="Typing SVG" /></a>
+  </h1>
 </div>
+
 
 <h3 align="center">An undergrad student from MSRIT, Bangalore India</h3>
 
