@@ -34,4 +34,4 @@
 
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranay50x&theme=chartreuse-dark&show_icons=true&locale=en" alt="pranay50x" /></div>
 <hr>
-<div align="center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay50x&theme=chartreuse-dark" alt="pranay50x" /></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay50x&theme=chartreuse-dark" alt="pranay50x" /></div>
