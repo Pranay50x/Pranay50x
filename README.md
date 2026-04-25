@@ -14,8 +14,8 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranay-kr-651a3b284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-kr-651a3b284" height="30" width="40" /></a>
-<a href="https://kaggle.com/pranay50x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranay50x" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranay-kr-651a3b284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-kr-651a3b284" height="30" width="40" padding-right="40px" /></a> 
+<!-- <a href="https://kaggle.com/pranay50x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranay50x" height="30" width="40"  /></a> -->
 </p>
 
 <hr>
